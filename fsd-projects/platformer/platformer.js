@@ -40,9 +40,9 @@ $(function () {
 
     // TODO 3 - Create Collectables
 
-createCollectable("ice cream", 300, 400);
-  createCollectable("pizza", 600, 300, 0.7, 1);
-  createCollectable("donut", 900, 200);
+createCollectable("database", 250, 175);
+  createCollectable("max", 320, 100, 0.7, 1);
+  createCollectable("diamond", 400, 200);
 
     
     // TODO 4 - Create Cannons
